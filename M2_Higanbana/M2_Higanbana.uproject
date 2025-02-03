@@ -12,11 +12,7 @@
 			]
 		},
 		{
-			"Name": "NiagaraFluids",
-			"Enabled": true
-		},
-		{
-			"Name": "MovieRenderPipeline",
+			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
 		}
 	]
